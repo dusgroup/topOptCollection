@@ -10,7 +10,7 @@ The comments are copyrighted by original comments' authors; some comments are up
 
 原始程序的版权归原始作者或出版社所有。原始程序注释中包括原始作者或出版社的版权信息，原始论文标题也包含在注释中。
 
-原始注释的版权归原始注释作者所有；一些注释被杜润及他的团队更新。
+原始注释的版权归原始注释作者所有；一些注释由杜润和他的团队更新。
 
 Examples:
 以下为代码的示例：
