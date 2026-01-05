@@ -58,7 +58,7 @@ Examples:
 Code test platform 代码测试平台
 
 |Code function |author(s) | paper DOI | year | MATLAB | octave|
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | top99 |  Sigmund | 10.1007/s001580050176 | 2001 | ✔ | ✔ |
 | top88 | Andreassen et al. | 10.1007/s00158-010-0594-7 | 2011 | ✔ | ✔ |
 | multitop | Tavakoli &  Mohseni | 10.1007/s00158-013-0999-1 | 2014 | ✔ | ✔ |
