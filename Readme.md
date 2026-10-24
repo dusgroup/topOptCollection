@@ -68,6 +68,34 @@ Examples:
   topLSM(80, 40, 0.5, 2, 2, 1);
   ```
 
+7. topFlow (in topFlow folder)
+  example:
+  ```matlab
+  cd topFlow;
+  topFlow;
+  ```
+
+8. StressTopOpt (in StressTopOpt folder)
+  example:
+  ```matlab
+  cd StressTopOpt;
+  run_stress_min;
+  ```
+
+9. SERA (in SERA folder)
+  example:
+  ```matlab
+  cd SERA;
+  sera(80, 40, 0.5, 3);
+  ```
+
+10. Hf_CM (in Hf_CM folder)
+  example:
+  ```matlab
+  cd Hf_CM;
+  Hf_CM(1, 1, 60, 60, 50, 0.3);
+  ```
+
 
 
 Code test platform 代码测试平台
@@ -80,3 +108,7 @@ Code test platform 代码测试平台
 | multitop_h | Tavakoli &  Mohseni | 10.1007/s00158-013-0999-1 | 2014 | ✔ | ✔ |
 | PolyTop | Talischi et al. | 10.1007/s00158-011-0696-x | 2012 | ✔ | ✔ |
 | topLSM | Challis | 10.1007/s00158-009-0430-0 | 2010 | ✔ | ✔ |
+| topFlow | Alexandersen | 10.1007/s00158-022-03420-9 | 2023 | ✔ | ✔ |
+| StressTopOpt | Pitt AMRL | 10.1007/s00158-018-2035-y | 2018 | ✔ | ✔ |
+| SERA | - | - | - | ✔ | ✔ |
+| Hf_CM | - | - | - | ✔ | ✔ |
